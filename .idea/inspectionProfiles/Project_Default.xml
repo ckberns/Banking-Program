@@ -1,0 +1,18 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="invoice_id" />
+          <option value="customer_id" />
+          <option value="last_name" />
+          <option value="first_name" />
+          <option value="phone_number" />
+          <option value="address" />
+          <option value="items_with_price" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
